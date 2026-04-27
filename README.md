@@ -70,3 +70,5 @@ python main.py
 ```
 
 Требуется **Python 3.10+**. Внешние зависимости отсутствуют.
+##Репозиторий
+https://github.com/Jatecky11/Life_simulator_2.git
